@@ -34,3 +34,8 @@ The Chicago and New York City files also have the following two columns:
 
 1) Gender
 2) Birth Year
+
+### Credits
+1) https://githowto.com/staging_and_committing
+2) https://stackoverflow.com/questions/5765645/should-you-commit-gitignore-into-the-git-repos
+3) https://guides.github.com/features/mastering-markdown/
