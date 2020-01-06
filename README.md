@@ -14,6 +14,9 @@ The following software are required for this project:
 ``````
 pip install pandas
 pip install numpy
+
+Git clone :- https://github.com/michaelbedson/pdsnd_github.git
+
 A text editor such as like Atom.
 A terminal application(Terminal on Mac and Linux or Cygwin on Windows)
 ``````
