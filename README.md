@@ -7,6 +7,8 @@ Data Analysis of a US Bikeshare Data from 3 major cities
 ### Description
 The Bikesahare project will make use of Python to explore data related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington. A script was written to take in raw input to create interactive experience in the terminal to present these statistics.
 
+### Installation
+
 The following software are required for this project:
 
 ``````
