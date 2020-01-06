@@ -1,25 +1,30 @@
 ### Date created
-Friday, December 13, 2019
+Monday, January 06, 2020
 
 ### Project Title
-Explore US Bikeshare Data
+Data Analysis of a US Bikeshare Data from 3 major cities
 
 ### Description
 The Bikesahare project will make use of Python to explore data related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington. A script was written to take in raw input to create interactive experience in the terminal to present these statistics.
 
-The following softwares are required for this project:
-Python 3, Pandas installed using Anaconda
-A text editor, like Atom.
+The following software are required for this project:
+
+``````
+pip install pandas
+pip install numpy
+A text editor such as like Atom.
 A terminal application(Terminal on Mac and Linux or Cygwin on Windows)
+``````
 
 ### Files used
-Datasets
-1) chicago.csv
-2) new_york_city.csv
-3) washington.csv
+The following files were used for the data analysis:- 
+1) [chicago.csv](https://drive.google.com/open?id=1V4WH42QnOgkA0tfLjK9UrDOp0A0S2UTQ)
+2) [new_york_city.csv](https://drive.google.com/open?id=1mQeu8YlBxMj1B33BZsEZYjSSPyOpVc0a)
+3) [washington.csv](https://drive.google.com/open?id=1rxtaCQSfgBYoOHU1Vm_dYeF3P2Ff7-1n)
 
-bikeshare.py - Code
-input.py - Function code
+``````
+run python bikeshare.py
+``````
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -36,6 +41,6 @@ The Chicago and New York City files also have the following two columns:
 2) Birth Year
 
 ### Credits
-1) https://githowto.com/staging_and_committing
-2) https://stackoverflow.com/questions/5765645/should-you-commit-gitignore-into-the-git-repos
-3) https://guides.github.com/features/mastering-markdown/
+1) [Githow](https://githowto.com/staging_and_committing)
+2) [Stackover](https://stackoverflow.com/questions/5765645/should-you-commit-gitignore-into-the-git-repos)
+3) [Github Markdown](https://guides.github.com/features/mastering-markdown/)
